@@ -8,4 +8,7 @@ Git tracks change!
 Git has a mutable index called stage!
 
 hello,我是郑德生！测试提交！
+
 this is a master  branch,测试冲突的解决方式 !
+
+this is a test1 branch,测试合并 !
